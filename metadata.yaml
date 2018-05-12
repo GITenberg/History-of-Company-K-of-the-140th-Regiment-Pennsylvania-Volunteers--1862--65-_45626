@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '43387'
     url: http://www.gutenberg.org/2009/agents/43387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45626#History-of-Company-K-of-the-140th-Regiment-Pennsylvania-Volunteers--1862--65-
 gutenberg_issued: '2014-05-10'
 gutenberg_type: Text
 identifiers:
