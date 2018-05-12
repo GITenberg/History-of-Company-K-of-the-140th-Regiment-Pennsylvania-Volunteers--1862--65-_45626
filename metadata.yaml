@@ -1,0 +1,32 @@
+_repo: History-of-Company-K-of-the-140th-Regiment-Pennsylvania-Volunteers--1862--65-_45626
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45626-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Sweeney, Alexander
+    alias: Sweeney, Aleck
+    gutenberg_agent_id: '43388'
+    url: http://www.gutenberg.org/2009/agents/43388
+  - agent_name: Powelson, Benjamin F.
+    gutenberg_agent_id: '43387'
+    url: http://www.gutenberg.org/2009/agents/43387
+description: ''
+gutenberg_issued: '2014-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45626'
+  lccn: '15001687'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Pennsylvania Infantry Regiment, 140th (1862-1865). Company
+  K'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- Pennsylvania Infantry -- 140th -- Company K'
+- !lcc 'E456'
+title: History of Company K of the 140th Regiment Pennsylvania Volunteers (1862-'65)
+url: http://www.gutenberg.org/ebooks/45626
